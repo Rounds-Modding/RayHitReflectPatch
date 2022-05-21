@@ -1,0 +1,10 @@
+﻿{
+  "name": "RayHitReflectPatch",
+  "version_number": "#VERSION#",
+  "website_url": "https://github.com/Rounds-Modding/RayHitReflectPatch",
+  "description": "Patches a bug in the vanilla game regarding bullet bounces.",
+  "dependencies": [
+    "willis81808-UnboundLib-3.0.1",
+    "willis81808-MMHook-1.0.0"
+  ]
+}
